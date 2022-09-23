@@ -9,12 +9,14 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: red;
     }
 
 
     .nav_botao
     .nav_logo{
         width: 35px;
-        
+    background-color: blue;    
+    margin: 15px;
 
     }
